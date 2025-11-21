@@ -1,0 +1,16 @@
+Partitioning Type,Partitions,Execution Time (s)
+hash,4,2.7713
+hash,8,2.9392
+hash,12,4.2637
+hash,16,3.6998
+hash,20,4.7465
+range,4,2.6852
+range,8,4.3001
+range,12,5.6758
+range,16,6.2107
+range,20,4.1066
+directory,4,4.0576
+directory,8,4.7955
+directory,12,3.0072
+directory,16,3.6549
+directory,20,3.1076
